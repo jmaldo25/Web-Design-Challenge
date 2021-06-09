@@ -13,7 +13,7 @@ li{
 }
 
 #navlink{
-    color: #A71930
+    color: red
 }
 
 table{
@@ -22,8 +22,8 @@ table{
 
 #drop{
     color: white;
-    background-color: #03202F;
-    border-color: #03202F;
+    background-color: #A71930;
+    border-color: #7b8ab8;
 }
 
 .title{
