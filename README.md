@@ -8,7 +8,7 @@ Data is more powerful when we share it with others! Let's take what we've learne
 
 ### Web Link
 
-[Link for Web Page] (https://jmaldo25.github.io/Web-Design-Challenge/)
+[Link for Web Page](https://jmaldo25.github.io/Web-Design-Challenge/)
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
